@@ -1,2 +1,4 @@
 # hello-world
-to jest moje pierwsze repozytorium
+
+
+Test zmieniania plikow w osobnej galezi
